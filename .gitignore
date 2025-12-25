@@ -18,6 +18,9 @@ expo-env.d.ts
 *.key
 *.mobileprovision
 
+# Ignore node_modules inside copied huchdoo-app
+huchdoo-app/node_modules/
+
 # Metro
 .metro-health-check*
 
